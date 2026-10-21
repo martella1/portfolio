@@ -1,6 +1,5 @@
-# MARTINA.DEV — Portfolio cyberpunk 🎮
 
-**Portfolio realizzato solo con HTML, CSS e JavaScript.** Nessun Python, PHP, MAMP, npm, framework o server necessario. Si apre anche senza connessione Internet.
+
 
 ## Aprilo subito su Windows
 
